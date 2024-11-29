@@ -1,1 +1,1 @@
-jupyter notebook --notebook-dir=<this cloned repo folder>
+`jupyter notebook --notebook-dir=<this cloned repo folder>`
